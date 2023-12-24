@@ -1,4 +1,4 @@
-# MadGodsOverhaul
+# Mad God's Overhaul
 Skyrim VR – Mad God’s Overhaul VR
 
 Discord : https://discord.gg/RwZvZG6qf3
