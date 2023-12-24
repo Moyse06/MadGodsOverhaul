@@ -25,7 +25,7 @@ For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE i
 
 ## **Installation**
 
-- Download failed ? : https://github.com/Moyse06/MadGodsOverhaul/wiki
+- Download failed missing HIGH POLY HEAD : https://github.com/Moyse06/MadGodsOverhaul/wiki
 - Do not waste time if you are using a pirated copy of the game, Steam VR version is required, you will have random problems with pirated cversion
 - Download the zip file from Nexus, extract into .wabbajack file
 - Download and run Wabbajack program itself from https://www.wabbajack.org/ and choose the install from disk option, install to a root folder not shared by Skyrim VR like  D:\SKYRIMVR_Overhaul, as MO2 needs full lock to the entire directory
