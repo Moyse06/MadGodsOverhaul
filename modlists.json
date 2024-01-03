@@ -3,14 +3,13 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Mad God's Overhaul",
     "description": "High quality Graphic for VR players",
-    "author": "<Moyse06>",
+    "author": "Moyse06",
     "maintainers": [
       "github/<Moyse06>"
     ],
     "game": "SkyrimVR",
     "tags": [
-      "VR",
-      "<any tags you want in the UI, each in its own string"
+      "VR"
     ],
     "nsfw": false,
     "image_contains_title": false,
