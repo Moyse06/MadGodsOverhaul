@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Mad God's Overhaul",
+    "description": "High quality Graphic for VR players",
+    "author": "<Moyse06>",
+    "maintainers": [
+      "github/<Moyse06>"
+    ],
+    "game": "SkyrimVR",
+    "tags": [
+      "VR",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://staticdelivery.nexusmods.com/mods/1704/images/107333/107333-1703490808-551927209.jpeg>",
+      "readme": "<https://github.com/Moyse06/MadGodsOverhaul/blob/main/README.md>",
+      "download": "https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=455162&game_id=1704",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/gVtAvHyc"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "tDZjF92geHI=",
+      "Size": 2773760627,
+      "NumberOfArchives": 947,
+      "SizeOfArchives": 120539480307,
+      "NumberOfInstalledFiles": 309874,
+      "SizeOfInstalledFiles": 227272207834
+    },
+    "version": "1.61"
+  }
+]
