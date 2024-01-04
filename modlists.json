@@ -5,16 +5,11 @@
     "description": "2024 High quality visual made for VR players",
     "author": "Moyse06",
     "maintainers": [
-      "github/Moyse06/MadGodsOverhaul"
+      "github/Moyse06/"
     ],
     "game": "SkyrimVR",
     "tags": [
-      "VR",
-      "Mad",
-      "God",
-      "High",
-      "Poly",
-      "Overhaul"
+      "VR"
     ],
     "nsfw": false,
     "image_contains_title": true,
