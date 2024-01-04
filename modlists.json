@@ -9,7 +9,12 @@
     ],
     "game": "SkyrimVR",
     "tags": [
-      "VR"
+      "VR",
+      "Mad",
+      "God",
+      "High",
+      "Poly",
+      "Overhaul"
     ],
     "nsfw": false,
     "image_contains_title": true,
@@ -17,8 +22,8 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/MadGodsOverhaulWabba_V1.png",
-      "readme": "https://github.com/Moyse06/MadGodsOverhaul/blob/main/README.md",
-      "download": "https://drive.google.com/file/d/1_kbqigkEUbFyEeFgAI1k6xKhnvl2DhLJ/view?usp=drive_link",
+      "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Mad%20God's%20Overhaul%20SFW.wabbajack_3e7c8875-6f09-4393-a187-282e9ce2fd97",
       "machineURL": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/modlists.json",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
