@@ -22,7 +22,7 @@ For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE i
 - [NSFW](#nsfw)
 - [Starting A Scene](#starting-a-scene)
 - [Changing NPC Outfits](#changing-npc-outfits)
-- [CHANGELOG SINCE 1.70](#Changelog-since-1.70).
+- [CHANGELOG SINCE 1.70](#Changelog-since-1.70)
 
 ## **Installation**
 
@@ -144,9 +144,50 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 
 - In inventory open AddItem book to get the AddItem spell, this is an spell that allows you to get item from any installed mods, the three installed DX outfit packs have a lot of clothing to get started
 - In your inventory there is a new "Ring of Fashion Designer", which when equipped, gives you ability to override an NPC's equipment
-
-## **Changelog since 1.70**
 - You use Simple Item Spawner to get an outfit, then give it to any NPC of your choice
 - In SexLab you can disable the stripping option so the NPC wears outfit of your choice during the act
 - Any outfit mod for CBBE 3BA/3BBB is compatible, you will need to run BodySlide in MO2 dropdown and build the outfits for the body
 
+## **Changelog since 1.70**
+
+**Version 1.7**
+- Removed EasyNPC MERGE. More problem added than it solved for now.
+- Disable Nithi NPC overhaul because Incompatible with RSV new skin (For now)
+- Quickloot VR
+- Sleeping Expanded
+- Use Those Blankets (+patch for own textures)
+- Lightened Skyrim
+- TB's Candle Flame Improver
+- Locational Damage VR
+- Disable Auto-save (Optional)
+- Feminine Argonian Texture (Lizard)
+- Feminine Khajiit texture (Grey Cat)
+- Wearable Healtbar
+- Khajiit Paw (Digitigrade Looking feet)
+- Ajustable Attack Opportunities
+- RSV for Skin distribution with BnP body textures for NPC and Player (Removed RBT)
+- RSV BnP Teeth Patch (NPC get different teeth distribution)
+- Autobody as been change to Obody
+- Unlimited Sprinting (Optional, not default)
+- Security Overhaul SKSE - Lock Variation, Add-on, Regional Locks and some more locks.
+- Went 4k for the Body replacer since we see that close all the time. Nothing else is 4k in the list
+- High Heel sound and High fix are now included
+- NPC react to FRENZY
+- Added Saphire Castle where we can get the new Follower Helen
+
+**Version 1.71**
+- Fixed MISSING INI during install. You can now install in english.
+- NEW MOD : Cities of the North - Winterhold (Winterhold is now restored to it's former glory)
+- NEW MOD : Fortified Winterhold Walls
+- NEW MOD : Winterhold Dock
+- NEW MOD :  Footprints with SPID distribution (And patches)
+- NEW MOD : Painting for Cities of the North - Winterhold
+- NEW MOD : R.A.S.S. Faster Season patch
+- Fixed 3BA Bodyslide presets with weirdest shape. Still work to do on this
+- Fixed Himbo Bodyslide presets to reduce Pect size and remove any ''Manboob''
+  Fixed Red Flaggon flickering water (Thank you Jepster !! )
+- Created 6 Patch (Pantheon Coldsun's Pack 1, 2, 3, 4, Lydia Private edition and Irilith replacer) To fix the neck seams cause by RSV Skin SPID distribution
+- Updated mods that had new version (Bandit, Forsworn, and Guard Line expansion)
+**UBE 3ba Body is NOT compatible with RSV. Neither is SOSAM and Sam Light. So for now I stick to Himbo + 3BA Amazing body**
+
+  
