@@ -22,6 +22,7 @@ For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE i
 - [NSFW](#nsfw)
 - [Starting A Scene](#starting-a-scene)
 - [Changing NPC Outfits](#changing-npc-outfits)
+- [CHANGELOG SINCE 1.70](#Changelog-since-1.70).
 
 ## **Installation**
 
@@ -143,6 +144,8 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 
 - In inventory open AddItem book to get the AddItem spell, this is an spell that allows you to get item from any installed mods, the three installed DX outfit packs have a lot of clothing to get started
 - In your inventory there is a new "Ring of Fashion Designer", which when equipped, gives you ability to override an NPC's equipment
+
+## **Changelog since 1.70**
 - You use Simple Item Spawner to get an outfit, then give it to any NPC of your choice
 - In SexLab you can disable the stripping option so the NPC wears outfit of your choice during the act
 - Any outfit mod for CBBE 3BA/3BBB is compatible, you will need to run BodySlide in MO2 dropdown and build the outfits for the body
