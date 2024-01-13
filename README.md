@@ -22,7 +22,7 @@ For all crash issues, drop crash.dateTime.log from My Documents\Skyrim VR\SKSE i
 - [NSFW](#nsfw)
 - [Starting A Scene](#starting-a-scene)
 - [Changing NPC Outfits](#changing-npc-outfits)
-- [CHANGELOG SINCE 1.70](#Changelog-since-1.70)
+- [CHANGELOG](#Changelog-since-1.70)
 
 ## **Installation**
 
@@ -148,7 +148,7 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 - In SexLab you can disable the stripping option so the NPC wears outfit of your choice during the act
 - Any outfit mod for CBBE 3BA/3BBB is compatible, you will need to run BodySlide in MO2 dropdown and build the outfits for the body
 
-## **Changelog since 1.70**
+## **CHANGELOG**
 
 **Version 1.7**
 - Removed EasyNPC MERGE. More problem added than it solved for now.
