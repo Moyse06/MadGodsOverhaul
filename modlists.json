@@ -19,21 +19,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/MadGodsOverhaulWabba_V1.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mad God\u0027s Overhaul SFW.wabbajack_2e30d349-927b-4e6d-aa4f-0581902f3582",
+      "download": "https://authored-files.wabbajack.org/Mad God\u0027s Overhaul SFW.wabbajack_4c0b26f7-fb77-4fc5-8eb2-d0fd77de5e1b",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
     "download_metadata": {
-      "Hash": "IkcZ6Do2jVo=",
-      "Size": 4022819698,
+      "Hash": "3ptx88xxnHE=",
+      "Size": 4022819559,
       "NumberOfArchives": 1048,
       "SizeOfArchives": 128015919843,
       "NumberOfInstalledFiles": 322583,
-      "SizeOfInstalledFiles": 240500516597
+      "SizeOfInstalledFiles": 240500516598
     },
-    "version": "1.73",
+    "version": "1.731",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-14T07:49:35.5219978Z",
+    "dateUpdated": "2024-01-14T15:15:37.909955Z",
     "repositoryName": ""
   }
 ]
