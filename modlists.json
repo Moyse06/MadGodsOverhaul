@@ -48,7 +48,7 @@
     "tags": [
       "VR"
     ],
-    "nsfw": True,
+    "nsfw": true,
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
@@ -68,5 +68,4 @@
       "NumberOfInstalledFiles": 375238,
       "SizeOfInstalledFiles": 249333008682
   }
-]
 ]
