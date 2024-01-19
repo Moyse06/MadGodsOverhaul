@@ -150,6 +150,99 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 
 ## **CHANGELOG**
 
+**Version 1.733**
+
+New custom Splash
+New Main Menu Intro song
+Sofia : Hid Tracking Marker
+Lux orbis rock bug in windhelm (Made by Last Post Thanks ! )
+Footprints - Alternative Design add-on (Thanks to Artisto)
+3D Casting FX - Fire and Frost Replacer
+Necrolock armor Fixed
+Divine Wardrobe integration : FIXED mage armor (reverted to vanilla)
+Lazy tool : Was required by XD Necromancer Outfit
+Alchemist Vestment : FIXED
+VR adress Library for SKSEVR updated
+(NSFW )Fixed Schlong tilted to the right with CPBC Config SOS
+(NSFW) BnP male Skin (Player) Removed Pubes (Still need to activate Dist. trough Opubes)
+Modpocalypse NPC FOMOD re-added (Fixes Vanilla hair for 3DNPC)
+Medieval Textile for vendor cart (Thanks to Artisto)
+Medieval textile for Laundry (Thanks to artisto)
+Custom Art Painting for cities ( Artisto ! )
+Texture unification Project (Once again artisto ! )
+DynDOLOD Quality Output (Ultra 3D Trees and Grass LOD now working properly)
+Bleeding Edge mod updated
+Added Rudification: Rudy Candles Expanded to fix wrong candle mesh
+Added Skeleton Replacer HD
+Dirtnap Babette replacer
+Dark Brotherhood Armor from 4th Unknown
+Night Mother Replacer
+Ancient Shrouded Armor by 4th Unknown
+2k Whiterun Stockade (Fixes bright stockade)
+More Informative Console VR
+SavrenX Spider + Arachnid spider sound rework + Absolute arachnophobia
+Mihail Chicken and Chick
+AE ressource (Sirenroot fix)
+Dirtyborn Final Chapter + Encore + Galesse Replacer
+Glorious Doors of Skyrim Update
+Meleys as Odahving (GOT dragon replacer)
+BBLS Patch: JK WR Outskirt grass + Lux Exterior Lighting + Parallax Meshes + Desaturated Wood
+Northbourne NPC of haafingar Vampire eyes Fix
+Steel sword replacer : Dunmeri Leaf Sword
+Unlimited Sprinting
+Iron Edge sword replacer
+Amorous adventure Revoiced
+ZZjay attire SMP peasent short dress
+SkyTEST realistic animals and predators
+Sexlab Eager NPC
+Underwear.dll
+Water Brightness and reflection : Splashes, Add-on, RW2 Patch
+RSV - BnP SK Fix (Player)
+EVlaS shadows
+Paraphernalia end of life (replaces FEC)
+Vanity Mirror 2
+VR keyboard
+CBPC Equipement physics
+irileth Replacer : Vera
+Winterhold : Docks, ancient winterhold Wall, Blacksmith (Thanks HOSE ! )
+Footprints
+Sexlab Aroused
+Sexlab eagerNPC
+Jk ragged flaggon water Fix
+Security Overhaul SKSE : Some more lock, regional Locks, Add-on, Variation
+Use those blanket
+Quickloot
+Serana Dialog Add-on
+Sleeping Expanded
+TB'S candle Flames Improver
+Opubes (Male and Female)
+NPC react to Frenzy
+Khajiit Paws (Digitigrade)
+Elana Intimacy
+Khajiit Grey cat texture
+Argonian Lizard texture
+Ajustable attack opportunities
+RSV Teeth Variance
+Obody replaces Autobody
+Amorous adventure - SL version
+Community overlay 1-2-3-4 (Tattoos)
+Beard Of Power
+
+**Version 1.71**
+- Fixed MISSING INI during install. You can now install in english.
+- NEW MOD : Cities of the North - Winterhold (Winterhold is now restored to it's former glory)
+- NEW MOD : Fortified Winterhold Walls
+- NEW MOD : Winterhold Dock
+- NEW MOD :  Footprints with SPID distribution (And patches)
+- NEW MOD : Painting for Cities of the North - Winterhold
+- NEW MOD : R.A.S.S. Faster Season patch
+- Fixed 3BA Bodyslide presets with weirdest shape. Still work to do on this
+- Fixed Himbo Bodyslide presets to reduce Pect size and remove any ''Manboob''
+  Fixed Red Flaggon flickering water (Thank you Jepster !! )
+- Created 6 Patch (Pantheon Coldsun's Pack 1, 2, 3, 4, Lydia Private edition and Irilith replacer) To fix the neck seams cause by RSV Skin SPID distribution
+- Updated mods that had new version (Bandit, Forsworn, and Guard Line expansion)
+**UBE 3ba Body is NOT compatible with RSV. Neither is SOSAM and Sam Light. So for now I stick to Himbo + 3BA Amazing body**
+
 **Version 1.7**
 - Removed EasyNPC MERGE. More problem added than it solved for now.
 - Disable Nithi NPC overhaul because Incompatible with RSV new skin (For now)
@@ -175,19 +268,6 @@ sFontConfigFile=Interface\FontConfig_pl.txt
 - NPC react to FRENZY
 - Added Saphire Castle where we can get the new Follower Helen
 
-**Version 1.71**
-- Fixed MISSING INI during install. You can now install in english.
-- NEW MOD : Cities of the North - Winterhold (Winterhold is now restored to it's former glory)
-- NEW MOD : Fortified Winterhold Walls
-- NEW MOD : Winterhold Dock
-- NEW MOD :  Footprints with SPID distribution (And patches)
-- NEW MOD : Painting for Cities of the North - Winterhold
-- NEW MOD : R.A.S.S. Faster Season patch
-- Fixed 3BA Bodyslide presets with weirdest shape. Still work to do on this
-- Fixed Himbo Bodyslide presets to reduce Pect size and remove any ''Manboob''
-  Fixed Red Flaggon flickering water (Thank you Jepster !! )
-- Created 6 Patch (Pantheon Coldsun's Pack 1, 2, 3, 4, Lydia Private edition and Irilith replacer) To fix the neck seams cause by RSV Skin SPID distribution
-- Updated mods that had new version (Bandit, Forsworn, and Guard Line expansion)
-**UBE 3ba Body is NOT compatible with RSV. Neither is SOSAM and Sam Light. So for now I stick to Himbo + 3BA Amazing body**
+
 
   
