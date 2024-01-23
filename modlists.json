@@ -56,21 +56,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/MGO_NSFW_V3.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mad God\u0027s Overhaul NSFW.wabbajack_db81d578-50fe-4184-b9b9-d6a585f64134",
+      "download": "https://authored-files.wabbajack.org/Mad God\u0027s Overhaul NSFW.wabbajack_e62c3605-25cf-4d95-9269-45b02e2fb996",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
     "download_metadata": {
-      "Hash": "3FXVrLjOVjM=",
-      "Size": 9545292834,
+      "Hash": "gsOCSPnitEI=",
+      "Size": 9608849888,
       "NumberOfArchives": 1121,
       "SizeOfArchives": 131816600987,
-      "NumberOfInstalledFiles": 386371,
-      "SizeOfInstalledFiles": 252088241745
+      "NumberOfInstalledFiles": 389774,
+      "SizeOfInstalledFiles": 252092326638
     },
     "version": "1.7.4",
     "dateCreated": "2024-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-23T09:02:31.9460573Z",
+    "dateUpdated": "2024-01-23T15:49:56.9636103Z",
     "repositoryName": ""
   }
 ]
