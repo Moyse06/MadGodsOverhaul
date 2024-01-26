@@ -1,7 +1,7 @@
 # Mad God's Overhaul
 Skyrim VR – Mad God’s Overhaul VR
 
-Discord : https://discord.gg/RwZvZG6qf3
+Discord : https://discord.gg/HubQWusDPn
 
 Best way to show your appreciation is to endorse on Nexus and post images/videos of this mod list on Reddit/Youtube.  
 
