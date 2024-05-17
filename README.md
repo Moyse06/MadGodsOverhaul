@@ -1,6 +1,6 @@
 # Mad God's Overhaul - 2024 Wabbajacks for Skyrim VR and Fallout 4 VR
 
-Discord : https://discord.gg/HubQWusDPn
+Discord : [https://discord.gg/HubQWusDPn](https://pages.github.com/)
 
 Skyrim VR NSFW: https://www.nexusmods.com/skyrimspecialedition/mods/107333
 
