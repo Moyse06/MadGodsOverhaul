@@ -9,7 +9,8 @@
     "game": "skyrimvr",
     "official": false,
     "tags": [
-      "VR", "High End Systems"
+      "VR",
+      "High End Systems"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -46,7 +47,9 @@
     "game": "skyrimvr",
     "official": false,
     "tags": [
-      "VR", "High End Systems", "NSFW"
+      "VR",
+      "High End Systems",
+      "NSFW"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -73,7 +76,7 @@
     "dateUpdated": "2024-05-16T00:00:00Z",
     "repositoryName": ""
   },
-    {
+  {
     "title": "Mad Gods Overhaul Classic",
     "description": "2024 High quality visuals made for VR players, lore friendly",
     "author": "Moyse06",
@@ -83,7 +86,9 @@
     "game": "fallout4vr",
     "official": false,
     "tags": [
-      "VR", "High End Systems", "Lore Friendly"
+      "VR",
+      "High End Systems",
+      "Lore Friendly"
     ],
     "nsfw": false,
     "utility_list": false,
