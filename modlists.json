@@ -1,7 +1,7 @@
 [
   {
-    "title": "Mad Gods Overhaul",
-    "description": "2024 High quality visual made for VR players",
+    "title": "Mad Gods Overhaul SFW",
+    "description": "2024 High quality visuals made for VR players",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -9,7 +9,7 @@
     "game": "skyrimvr",
     "official": false,
     "tags": [
-      "VR"
+      "VR", "High End Systems"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -17,28 +17,28 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/splash.png",
+      "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mad God\u0027s Overhaul SFW.wabbajack_d05c6f05-def0-474f-8879-d8a68e2cdc5e",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul Classic SFW.wabbajack_ed020f1e-4f4b-4b5b-a41a-02c8c21dd912",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.gg/HubQWusDPn"
     },
     "download_metadata": {
-      "Hash": "ZhHcQEs3Wng=",
-      "Size": 6921317660,
-      "NumberOfArchives": 1214,
-      "SizeOfArchives": 153376456362,
-      "NumberOfInstalledFiles": 253672,
-      "SizeOfInstalledFiles": 268170269806
+      "Hash": "p0h2+oxGtj4=",
+      "Size": 1044101432,
+      "NumberOfArchives": 846,
+      "SizeOfArchives": 89316324744,
+      "NumberOfInstalledFiles": 134746,
+      "SizeOfInstalledFiles": 149270493348
     },
-    "version": "1.8.6.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-08T17:53:34.1492424Z",
+    "version": "1.931",
+    "dateCreated": "2023-12-31T00:00:00Z",
+    "dateUpdated": "2024-05-16T00:00:00Z",
     "repositoryName": ""
   },
   {
     "title": "Mad Gods Overhaul NSFW",
-    "description": "2024 High quality visual made for VR players with Adult content",
+    "description": "2024 High quality visuals made for VR players with Adult content",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -46,7 +46,7 @@
     "game": "skyrimvr",
     "official": false,
     "tags": [
-      "VR"
+      "VR", "High End Systems", "NSFW"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -54,23 +54,60 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/MGO_NSFW_V3.png",
+      "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Mad God\u0027s Overhaul NSFW.wabbajack_940aae18-c67d-4af9-bd0b-521a836a5b5e",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul Classic NSFW.wabbajack_05406ff7-acd3-438a-b059-9a5d8c0d2ab8",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
     "download_metadata": {
-      "Hash": "L9mAi5l781Q=",
-      "Size": 7757283720,
-      "NumberOfArchives": 1217,
-      "SizeOfArchives": 155251609978,
-      "NumberOfInstalledFiles": 281034,
-      "SizeOfInstalledFiles": 271406172548
+      "Hash": "2Iq+JYDUADA=",
+      "Size": 1445960457,
+      "NumberOfArchives": 853,
+      "SizeOfArchives": 91209941387,
+      "NumberOfInstalledFiles": 150616,
+      "SizeOfInstalledFiles": 151676058566
     },
-    "version": "1.8.6.2",
-    "dateCreated": "2024-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-08T16:54:23.3663773Z",
+    "version": "1.931",
+    "dateCreated": "2023-12-31T00:00:00Z",
+    "dateUpdated": "2024-05-16T00:00:00Z",
+    "repositoryName": ""
+  },
+    {
+    "title": "Mad Gods Overhaul",
+    "description": "2024 High quality visuals made for VR players, lore friendly",
+    "author": "Moyse06",
+    "maintainers": [
+      "github/Moyse06"
+    ],
+    "game": "fallout4vr",
+    "official": false,
+    "tags": [
+      "VR", "High End Systems", "Lore Friendly"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/classic_splash.png",
+      "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
+      "download": "Fallout 4 VR Mad God Overhaul Classic.wabbajack_a6b4c73b-5d92-416c-8953-b7bff0048184",
+      "machineURL": "MadGodsOverhaulFallout",
+      "discordURL": "https://discord.gg/gVtAvHyc"
+    },
+    "download_metadata": {
+      "Hash": "pWn2kTUfOcg=",
+      "Size": 321296895,
+      "NumberOfArchives": 175,
+      "SizeOfArchives": 59840670291,
+      "NumberOfInstalledFiles": 9924,
+      "SizeOfInstalledFiles": 64690436141
+    },
+    "version": "1.2",
+    "dateCreated": "2023-12-31T00:00:00Z",
+    "dateUpdated": "2024-05-16T00:00:00Z",
     "repositoryName": ""
   }
 ]
