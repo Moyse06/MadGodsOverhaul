@@ -2,7 +2,7 @@
 
 Discord : [https://discord.gg/HubQWusDPn](https://discord.gg/HubQWusDPn)
 
-Latest modlist and documentation are on Nexus:
+**Latest modlist and documentation are on Nexus**
 
 Skyrim VR NSFW: [https://www.nexusmods.com/skyrimspecialedition/mods/107333](https://www.nexusmods.com/skyrimspecialedition/mods/107333)
 Skyrim VR SFW: [https://www.nexusmods.com/skyrimspecialedition/mods/107780](https://www.nexusmods.com/skyrimspecialedition/mods/107780)
