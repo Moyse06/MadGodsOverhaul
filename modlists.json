@@ -1,7 +1,7 @@
 [
   {
     "title": "Mad Gods Overhaul SFW",
-    "description": "2024 High quality visuals made for VR players",
+    "description": "Mad God Overhaul SFW - 2024 High quality visuals made for VR players",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -39,7 +39,7 @@
   },
   {
     "title": "Mad Gods Overhaul NSFW",
-    "description": "2024 High quality visuals made for VR players with Adult content",
+    "description": "Mad God Overhaul NSFW - 2024 High quality visuals made for VR players with Adult content",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -77,7 +77,7 @@
     "repositoryName": ""
   },
   {
-    "title": "Mad Gods Overhaul Classic",
+    "title": "Mad God Overhaul Classic",
     "description": "2024 High quality visuals made for VR players, lore friendly",
     "author": "Moyse06",
     "maintainers": [
@@ -99,7 +99,7 @@
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/classic_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
       "download": "https://authored-files.wabbajack.org/Fallout 4 VR Mad God Overhaul Classic.wabbajack_a6b4c73b-5d92-416c-8953-b7bff0048184",
-      "machineURL": "MadGodsOverhaulFallout",
+      "machineURL": "MadGodsOverhaulFO4VR",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
     "download_metadata": {
