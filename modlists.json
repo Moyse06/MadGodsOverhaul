@@ -10,7 +10,9 @@
     "official": false,
     "tags": [
       "VR",
-      "High End Systems"
+      "High End Systems",
+      "ENB",
+      "Community Shader"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -20,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul Classic SFW.wabbajack_ed020f1e-4f4b-4b5b-a41a-02c8c21dd912",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul Classic SFW.wabbajack_d3e841bb-c3ea-4ee7-b4d5-76c279b786cc",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.gg/HubQWusDPn"
     },
     "download_metadata": {
-      "Hash": "p0h2+oxGtj4=",
-      "Size": 1044101432,
-      "NumberOfArchives": 846,
-      "SizeOfArchives": 89316324744,
-      "NumberOfInstalledFiles": 134746,
-      "SizeOfInstalledFiles": 149270493348
+      "Hash": "KLjhldrMo2c=",
+      "Size": 1138127557,
+      "NumberOfArchives": 1076,
+      "SizeOfArchives": 100818289101,
+      "NumberOfInstalledFiles": 150736,
+      "SizeOfInstalledFiles": 159621011296
     },
-    "version": "1.931",
+    "version": "2.01",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-05-16T00:00:00Z",
+    "dateUpdated": "2024-06-25T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -49,7 +51,9 @@
     "tags": [
       "VR",
       "High End Systems",
-      "NSFW"
+      "NSFW",
+      "ENB",
+      "Community Shader"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -59,21 +63,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul Classic NSFW.wabbajack_05406ff7-acd3-438a-b059-9a5d8c0d2ab8",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul Classic NSFW.wabbajack_3e7e006c-c84b-40bf-acdc-066945e89236",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
     "download_metadata": {
-      "Hash": "2Iq+JYDUADA=",
-      "Size": 1445960457,
-      "NumberOfArchives": 853,
-      "SizeOfArchives": 91209941387,
-      "NumberOfInstalledFiles": 150616,
-      "SizeOfInstalledFiles": 151676058566
+      "Hash": "+Beu7K8D0bY=",
+      "Size": 1624397064,
+      "NumberOfArchives": 1083,
+      "SizeOfArchives": 102711908858,
+      "NumberOfInstalledFiles": 166611,
+      "SizeOfInstalledFiles": 161762141137
     },
-    "version": "1.931",
+    "version": "2.01",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-05-16T00:00:00Z",
+    "dateUpdated": "2024-06-25T00:00:00Z",
     "repositoryName": ""
   },
   {
