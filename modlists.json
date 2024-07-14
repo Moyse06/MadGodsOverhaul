@@ -22,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_d3e841bb-c3ea-4ee7-b4d5-76c279b786cc",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_52662153-ec97-41fd-b638-a9b2262adf4c",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.gg/HubQWusDPn"
     },
     "download_metadata": {
-      "Hash": "KLjhldrMo2c=",
-      "Size": 1138127557,
-      "NumberOfArchives": 1076,
-      "SizeOfArchives": 100818289101,
-      "NumberOfInstalledFiles": 150736,
-      "SizeOfInstalledFiles": 159621011296
+      "Hash": "1OCF+I/axoI=",
+      "Size": 2140582369,
+      "NumberOfArchives": 1175,
+      "SizeOfArchives": 124928999942,
+      "NumberOfInstalledFiles": 228108,
+      "SizeOfInstalledFiles": 193244726985
     },
-    "version": "2.01",
+    "version": "2.06",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-06-25T00:00:00Z",
+    "dateUpdated": "2024-07-14T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -63,21 +63,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_3e7e006c-c84b-40bf-acdc-066945e89236",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_7324d07f-a59d-4cbe-990b-fb7d2cf79146",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
     "download_metadata": {
-      "Hash": "+Beu7K8D0bY=",
-      "Size": 1624397064,
-      "NumberOfArchives": 1083,
-      "SizeOfArchives": 102711908858,
-      "NumberOfInstalledFiles": 166611,
-      "SizeOfInstalledFiles": 161762141137
+      "Hash": "oSfG41ivMEs=",
+      "Size": 2926419242,
+      "NumberOfArchives": 1182,
+      "SizeOfArchives": 126822619699,
+      "NumberOfInstalledFiles": 255647,
+      "SizeOfInstalledFiles": 195795205494
     },
-    "version": "2.01",
+    "version": "2.06",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-06-25T00:00:00Z",
+    "dateUpdated": "2024-07-14T00:00:00Z",
     "repositoryName": ""
   },
   {
