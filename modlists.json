@@ -1,7 +1,7 @@
 [
   {
     "title": "Mad Gods Overhaul SFW",
-    "description": "Mad God Overhaul SFW, the one and only Skyrim VR experience for high end systems.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024.  Supports latest Community Shaders and greatest ENB's.  Pre-Installed with Mantella AI for maximum immersion.  Come and find out what you have been missing.",
+    "description": "Mad God Overhaul SFW, the definitive high end Skyrim VR experience.  Inspired by top SE/AE lists such as Nolvus, Lorerim and Apostasy.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024. Supports latest Community Shaders and greatest ENB's.  Every city, town, and village looks epic.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Pre-Installed with Mantella AI for maximum immersion.  Come and find out what you have been missing.",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -22,26 +22,26 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_52662153-ec97-41fd-b638-a9b2262adf4c",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_533aa4b6-cdec-4a1e-bdda-f6edb95a905f",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.gg/HubQWusDPn"
     },
     "download_metadata": {
-      "Hash": "1OCF+I/axoI=",
-      "Size": 2140582369,
-      "NumberOfArchives": 1175,
-      "SizeOfArchives": 124928999942,
-      "NumberOfInstalledFiles": 228108,
-      "SizeOfInstalledFiles": 193244726985
+      "Hash": "/PXLKH6ZnFE=",
+      "Size": 2442482199,
+      "NumberOfArchives": 1501,
+      "SizeOfArchives": 118936017754,
+      "NumberOfInstalledFiles": 180319,
+      "SizeOfInstalledFiles": 179019373498
     },
-    "version": "2.06",
+    "version": "2.51",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-07-14T00:00:00Z",
+    "dateUpdated": "2024-09-12T00:00:00Z",
     "repositoryName": ""
   },
   {
     "title": "Mad Gods Overhaul NSFW",
-    "description": "Mad God Overhaul NSFW, the one and only Skyrim VR experience for high end systems.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024.  Supports latest Community Shaders and greatest ENB's.  Pre-Installed with Mantella AI for maximum immersion.  Full adult contents with Sex Lab integration.  Come and find out what you have been missing.",
+    "description": "Mad God Overhaul NSFW, the definitive high end Skyrim VR experience.  Inspired by top SE/AE lists such as Nolvus, Lorerim and Apostasy.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024. Supports latest Community Shaders and greatest ENB's.  Every city, town, and village looks epic.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Pre-Installed with Mantella AI for maximum immersion.  Full adult contents with Ostim VR integration. Come and find out what you have been missing.",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -63,21 +63,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_7324d07f-a59d-4cbe-990b-fb7d2cf79146",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_7bbec794-1b47-46b2-8717-bc4307db9400",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.gg/gVtAvHyc"
     },
     "download_metadata": {
-      "Hash": "oSfG41ivMEs=",
-      "Size": 2926419242,
-      "NumberOfArchives": 1182,
-      "SizeOfArchives": 126822619699,
-      "NumberOfInstalledFiles": 255647,
-      "SizeOfInstalledFiles": 195795205494
+      "Hash": "A3ZIheoi2o0=",
+      "Size": 2439725577,
+      "NumberOfArchives": 1519,
+      "SizeOfArchives": 119998029137,
+      "NumberOfInstalledFiles": 243297,
+      "SizeOfInstalledFiles": 182566711810
     },
-    "version": "2.06",
+    "version": "2.51",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-07-14T00:00:00Z",
+    "dateUpdated": "2024-09-12T00:00:00Z",
     "repositoryName": ""
   },
   {
