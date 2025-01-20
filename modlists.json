@@ -1,7 +1,7 @@
 [
   {
     "title": "Mad Gods Overhaul SFW",
-    "description": "Mad God Overhaul SFW, the definitive high end Skyrim VR experience.  Inspired by top SE/AE lists such as Nolvus and Lorerim.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024. Supports latest Community Shaders and greatest ENB's.  Every city, town, and village looks epic.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Pre-Installed with Mantella AI for maximum immersion.  Come and find out what you have been missing.",
+    "description": "Mad God Overhaul SFW, the definitive high end Skyrim VR experience.  Inspired by top SE/AE lists such as Nolvus and Lorerim.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2025. Supports latest Community Shaders, full PBR texture and Season of Skyrim.  Every city, town, and village looks epic.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Pre-Installed with Mantella AI for maximum immersion.  Come and find out what you have been missing.",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -22,26 +22,26 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_d0faacf1-5bd9-49eb-bc52-bf7cbc78f553",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_49abc84e-2c2a-4459-86c4-4212bf0fddf4",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "7V+TJMwmHX8=",
-      "Size": 1349536185,
-      "NumberOfArchives": 2032,
-      "SizeOfArchives": 138737902990,
-      "NumberOfInstalledFiles": 204159,
-      "SizeOfInstalledFiles": 225606054629
+      "Hash": "cp8LBg2vGzU=",
+      "Size": 2397098293,
+      "NumberOfArchives": 1823,
+      "SizeOfArchives": 148635501126,
+      "NumberOfInstalledFiles": 354352,
+      "SizeOfInstalledFiles": 270400885009
     },
-    "version": "3.01",
+    "version": "3.5.1",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-12-14T00:00:00Z",
+    "dateUpdated": "2025-01-20T00:00:00Z",
     "repositoryName": ""
   },
   {
     "title": "Mad Gods Overhaul NSFW",
-    "description": "Mad God Overhaul NSFW, the definitive high end Skyrim VR experience.  Inspired by top SE/AE lists such as Nolvus and Lorerim.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024. Supports latest Community Shaders and greatest ENB's.  Every city, town, and village looks epic.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Pre-Installed with Mantella AI for maximum immersion.  Full adult contents with Ostim VR integration. Come and find out what you have been missing.",
+    "description": "Mad God Overhaul NSFW, the definitive high end Skyrim VR experience.  Inspired by top SE/AE lists such as Nolvus and Lorerim.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024. Supports latest Community Shaders, full PBR textures and Season of Skyrim.  Every city, town, and village looks epic.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Pre-Installed with Mantella AI for maximum immersion.  Full adult contents with Ostim VR integration. Come and find out what you have been missing.",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -63,21 +63,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_10f2aba8-55d8-48f7-9637-9f689d8b590e",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_2a3deb27-e98f-4e5d-8ebd-40ec6921d730",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "liF9vl4XOB0=",
-      "Size": 1346205869,
-      "NumberOfArchives": 2059,
-      "SizeOfArchives": 139909732376,
-      "NumberOfInstalledFiles": 276655,
-      "SizeOfInstalledFiles": 229362412696
+      "Hash": "nD93op6/IqQ=",
+      "Size": 2393558677,
+      "NumberOfArchives": 1851,
+      "SizeOfArchives": 149676487427,
+      "NumberOfInstalledFiles": 427784,
+      "SizeOfInstalledFiles": 274367498362
     },
-    "version": "3.01",
+    "version": "3.5.1",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-12-14T00:00:00Z",
+    "dateUpdated": "2025-01-20T00:00:00Z",
     "repositoryName": ""
   },
   {
