@@ -22,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_a8dfe7fd-509e-49c2-8f05-81bdd04d975b",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_25944895-6f4c-45ad-b28f-104651a9aeab",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "eOqNrRcZy5w=",
-      "Size": 2451488678,
-      "NumberOfArchives": 1852,
-      "SizeOfArchives": 151004906565,
-      "NumberOfInstalledFiles": 358120,
-      "SizeOfInstalledFiles": 272378164779
+      "Hash": "RzYMhho3g3w=",
+      "Size": 2354240169,
+      "NumberOfArchives": 1860,
+      "SizeOfArchives": 152227217414,
+      "NumberOfInstalledFiles": 362984,
+      "SizeOfInstalledFiles": 271235053390
     },
     "version": "3.5.2",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-02-03T00:00:00Z",
+    "dateUpdated": "2025-02-26T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -63,21 +63,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_91987b0e-054d-43ff-a906-7e072fc36f88",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_6dc2e40c-a514-4aad-bd5d-efad5ce5644c",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "9fE+nkb2hpo=",
-      "Size": 2443870687,
-      "NumberOfArchives": 1879,
-      "SizeOfArchives": 152043976307,
-      "NumberOfInstalledFiles": 432029,
-      "SizeOfInstalledFiles": 276328350937
+      "Hash": "oisojDVHyiA=",
+      "Size": 2350707234,
+      "NumberOfArchives": 1887,
+      "SizeOfArchives": 153267266408,
+      "NumberOfInstalledFiles": 436892,
+      "SizeOfInstalledFiles": 275187541537
     },
     "version": "3.5.2",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-02-03T00:00:00Z",
+    "dateUpdated": "2025-02-26T00:00:00Z",
     "repositoryName": ""
   },
   {
