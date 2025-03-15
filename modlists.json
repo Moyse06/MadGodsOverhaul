@@ -22,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_55ef8711-bed1-4bd6-9397-22861bf4ccf1",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_a04c899e-0c31-43e9-b8cc-c67b6cfcaf0e",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "RzYMhho3g3w=",
-      "Size": 2354240169,
-      "NumberOfArchives": 1860,
-      "SizeOfArchives": 152227217414,
-      "NumberOfInstalledFiles": 362984,
-      "SizeOfInstalledFiles": 271235053390
+      "Hash": "KQdGKMGsFx4=",
+      "Size": 2386056356,
+      "NumberOfArchives": 1869,
+      "SizeOfArchives": 153384137936,
+      "NumberOfInstalledFiles": 362920,
+      "SizeOfInstalledFiles": 271596720757
     },
-    "version": "3.5.3",
+    "version": "3.5.5",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-02-26T00:00:00Z",
+    "dateUpdated": "2025-03-15T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -63,21 +63,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_41f10aca-951a-4daf-baeb-b0ebac053299",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_4588ba50-7cbc-4b5e-826f-ffceb8589d4c",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "oisojDVHyiA=",
-      "Size": 2350707234,
-      "NumberOfArchives": 1887,
-      "SizeOfArchives": 153267266408,
-      "NumberOfInstalledFiles": 436892,
-      "SizeOfInstalledFiles": 275187541537
+      "Hash": "ZutGArDsMo8=",
+      "Size": 2376913588,
+      "NumberOfArchives": 1896,
+      "SizeOfArchives": 154425103156,
+      "NumberOfInstalledFiles": 436838,
+      "SizeOfInstalledFiles": 275547059910
     },
-    "version": "3.5.3",
+    "version": "3.5.5",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-02-26T00:00:00Z",
+    "dateUpdated": "2025-03-15T00:00:00Z",
     "repositoryName": ""
   },
   {
