@@ -82,7 +82,7 @@
   },
   {
     "title": "Mad God Overhaul",
-    "description": "Mad God Overhaul, the one and only Fallout 4 VR experience for high end systems.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2024.  100% lore friendly.",
+    "description": "Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2025. Supports latest weather, texture and lighting.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Choose between Classic Fallout 4 VR experience and modern tactical experience from the same installation.  Come and find out what you have been missing.",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -100,23 +100,23 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/classic_splash.png",
+      "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/fallout4.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Fallout 4 VR Mad God Overhaul Classic.wabbajack_a6b4c73b-5d92-416c-8953-b7bff0048184",
+      "download": "https://authored-files.wabbajack.org/Fallout 4 VR Mad God Overhaul.wabbajack_17eb48b1-3c58-4c11-bf07-3803a6eed0d1",
       "machineURL": "MadGodsOverhaulFO4VR",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "pWn2kTUfOcg=",
-      "Size": 321296895,
-      "NumberOfArchives": 175,
-      "SizeOfArchives": 59840670291,
-      "NumberOfInstalledFiles": 9924,
-      "SizeOfInstalledFiles": 64690436141
+      "Hash": "VJaaRzUsUfQ=",
+      "Size": 147777616,
+      "NumberOfArchives": 312,
+      "SizeOfArchives": 92809497095,
+      "NumberOfInstalledFiles": 17711,
+      "SizeOfInstalledFiles": 107156493361
     },
     "version": "1.2",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2024-05-16T00:00:00Z",
+    "dateUpdated": "2025-03-19T00:00:00Z",
     "repositoryName": ""
   }
 ]
