@@ -22,22 +22,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_a2541610-6de3-482c-8629-fd6854334c05",
-      "machineURL": "MadGodsOverhaul",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_499788cf-d771-4d3e-96c3-3d99f3e65a4b",
+      "machineURL": "MadGodsOverhaul/MGOSFW",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "kCmEAp2y1SM=",
-      "Size": 7042463209,
-      "NumberOfArchives": 1815,
-      "SizeOfArchives": 149584243106,
-      "NumberOfInstalledFiles": 370628,
-      "SizeOfInstalledFiles": 281654192501,
-      "TotalSize": 431238435607
+      "Hash": "bfAbU005TNE=",
+      "Size": 2419439801,
+      "NumberOfArchives": 1860,
+      "SizeOfArchives": 153334203055,
+      "NumberOfInstalledFiles": 378487,
+      "SizeOfInstalledFiles": 282602431542,
+      "TotalSize": 435936634597
     },
-    "version": "3.6.2",
+    "version": "3.6.6",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-06-06T00:00:00Z",
+    "dateUpdated": "2025-08-23T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -64,22 +64,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_f39f4835-4e0e-4f7e-a0c8-a9a81ed30dad",
-      "machineURL": "MadGodsOverhaulNSFW",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_a4fbe0fc-9a20-437c-944b-399bdddd9b68",
+      "machineURL": "MadGodsOverhaul/MGONSFW",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "ujyR5V60smA=",
-      "Size": 7039243306,
-      "NumberOfArchives": 1842,
-      "SizeOfArchives": 150647529758,
-      "NumberOfInstalledFiles": 446571,
-      "SizeOfInstalledFiles": 285660701727,
-      "TotalSize": 436308231485
+      "Hash": "0cdsN/xydL8=",
+      "Size": 2435677709,
+      "NumberOfArchives": 1891,
+      "SizeOfArchives": 154454143724,
+      "NumberOfInstalledFiles": 455537,
+      "SizeOfInstalledFiles": 286877032626,
+      "TotalSize": 441331176350
     },
-    "version": "3.6.2",
+    "version": "3.6.6",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-06-06T00:00:00Z",
+    "dateUpdated": "2025-08-23T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -123,3 +123,4 @@
     "repositoryName": ""
   }
 ]
+
