@@ -23,7 +23,7 @@
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
       "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_499788cf-d771-4d3e-96c3-3d99f3e65a4b",
-      "machineURL": "MadGodsOverhaul/MGOSFW",
+      "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
@@ -65,7 +65,7 @@
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
       "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_a4fbe0fc-9a20-437c-944b-399bdddd9b68",
-      "machineURL": "MadGodsOverhaul/MGONSFW",
+      "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
@@ -123,4 +123,5 @@
     "repositoryName": ""
   }
 ]
+
 
