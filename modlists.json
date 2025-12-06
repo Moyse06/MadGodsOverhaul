@@ -22,22 +22,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_5e39cff4-8ae0-468d-84a3-d6d70d6fc8cf",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_3378efc0-1efe-46b7-b421-dd85d4266c23",
       "machineURL": "MadGodsOverhaul",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "9dP01e1cAGE=",
-      "Size": 2542112264,
-      "NumberOfArchives": 1725,
-      "SizeOfArchives": 144655916960,
-      "NumberOfInstalledFiles": 385659,
-      "SizeOfInstalledFiles": 275842488164,
-      "TotalSize": 420498405124
+      "Hash": "Dt1jSNWmzzM=",
+      "Size": 2573696284,
+      "NumberOfArchives": 1728,
+      "SizeOfArchives": 146516948014,
+      "NumberOfInstalledFiles": 386761,
+      "SizeOfInstalledFiles": 280270617952,
+      "TotalSize": 426787565966
     },
-    "version": "3.8.3",
+    "version": "3.8.6",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-11-15T00:00:00Z",
+    "dateUpdated": "2025-12-06T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -64,22 +64,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/nsfw_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_9edf3ce6-f8e8-4ab0-bfc5-7973ef94c313",
+      "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - NSFW.wabbajack_0ba9d8ca-aaee-4351-b851-33771c3e2c37",
       "machineURL": "MadGodsOverhaulNSFW",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "0esOSDc2eyQ=",
-      "Size": 2540730598,
-      "NumberOfArchives": 1755,
-      "SizeOfArchives": 145753602431,
-      "NumberOfInstalledFiles": 469793,
-      "SizeOfInstalledFiles": 280218891782,
-      "TotalSize": 425972494213
+      "Hash": "1Q213WpgjuQ=",
+      "Size": 2571953244,
+      "NumberOfArchives": 1758,
+      "SizeOfArchives": 147616026070,
+      "NumberOfInstalledFiles": 471048,
+      "SizeOfInstalledFiles": 284649469557,
+      "TotalSize": 432265495627
     },
-    "version": "3.8.3",
+    "version": "3.8.6",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-11-15T00:00:00Z",
+    "dateUpdated": "2025-12-06T00:00:00Z",
     "repositoryName": ""
   },
   {
@@ -123,6 +123,7 @@
     "repositoryName": ""
   }
 ]
+
 
 
 
