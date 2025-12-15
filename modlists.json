@@ -84,7 +84,7 @@
   },
   {
     "title": "Mad God Overhaul",
-    "description": "Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2025. Supports latest weather, texture and lighting.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Choose between Classic Fallout 4 VR experience and modern tactical experience from the same installation.  Come and find out what you have been missing.",
+    "description": "Mad God Overhaul, the definitive high end Fallout 4 VR experience.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2025. Supports the latest weather, texture and lighting mods.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Come and find out what you have been missing.",
     "author": "Moyse06",
     "maintainers": [
       "github/Moyse06"
@@ -104,22 +104,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/fallout4_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Mad God Overhaul.wabbajack_e5a438f2-87d2-46b3-b3e1-d66ad9855f34",
+      "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Mad God Overhaul.wabbajack_53d162f9-0ab4-405e-844c-ba4742b4ff82",
       "machineURL": "MadGodsOverhaulFO4VR",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "5jAxX02tHE0=",
-      "Size": 153444042,
-      "NumberOfArchives": 309,
-      "SizeOfArchives": 92815057015,
-      "NumberOfInstalledFiles": 17958,
-      "SizeOfInstalledFiles": 107192705337,
-      "TotalSize": 200007762352
+      "Hash": "vthL3YOE77k=",
+      "Size": 338573008,
+      "NumberOfArchives": 316,
+      "SizeOfArchives": 65161419648,
+      "NumberOfInstalledFiles": 12993,
+      "SizeOfInstalledFiles": 76214580468,
+      "TotalSize": 141376000116
     },
-    "version": "1.5.2",
+    "version": "2.0.0",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-06-02T00:00:00Z",
+    "dateUpdated": "2025-12-14T00:00:00Z",
     "repositoryName": ""
   }
 ]
