@@ -104,23 +104,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/fallout4_splash.png",
       "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Mad God Overhaul.wabbajack_53d162f9-0ab4-405e-844c-ba4742b4ff82",
+      "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Mad God Overhaul.wabbajack_a04c882f-de03-407e-89ae-46de4f087dfd",
       "machineURL": "MadGodsOverhaulFO4VR",
       "discordURL": "https://discord.com/invite/WjSUaSPaQZ"
     },
     "download_metadata": {
-      "Hash": "vthL3YOE77k=",
-      "Size": 338573008,
-      "NumberOfArchives": 316,
-      "SizeOfArchives": 65161419648,
-      "NumberOfInstalledFiles": 12993,
-      "SizeOfInstalledFiles": 76214580468,
-      "TotalSize": 141376000116
+      "Hash": "pkXhS1ZhD4Y=",
+      "Size": 324681723,
+      "NumberOfArchives": 317,
+      "SizeOfArchives": 65218091120,
+      "NumberOfInstalledFiles": 13088,
+      "SizeOfInstalledFiles": 76499832579,
+      "TotalSize": 141717923699
     },
-    "version": "2.0.0",
+    "version": "2.0.1",
     "dateCreated": "2023-12-31T00:00:00Z",
-    "dateUpdated": "2025-12-14T00:00:00Z",
+    "dateUpdated": "2025-12-23T00:00:00Z",
     "repositoryName": ""
   }
 ]
+
 
